@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: CastleTower_0
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 6976519955764999403, guid: 45f2b57041a116240ad4c0d6ec064ba7,
+  m_Sprite: {fileID: 6976519955764999403, guid: 6ebad5a361d2c0147a43ce1921635426,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
